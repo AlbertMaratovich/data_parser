@@ -1,2 +1,4 @@
 .idea
 .venv
+user_rates.xlsx
+parser.py
